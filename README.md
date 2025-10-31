@@ -1,0 +1,2 @@
+# -Big-Mart-Sales-Prediction-An-End-to-End-ML-Pipeline
+This repository hosts a comprehensive, production-ready machine learning project focused on predicting store sales using the Big Mart dataset. This is an end-to-end regression analysis demonstrating proficiency in every stage of the data science lifecycle, from meticulous data preparation to advanced predictive modeling and rigorous evaluation
